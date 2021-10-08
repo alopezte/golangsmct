@@ -1,5 +1,7 @@
 package main
 
+//https://towardsdev.com/creating-a-simple-ethereum-smart-contract-in-golang-138b9439f64e
+
 import (
 	"context"
 	"crypto/ecdsa"
